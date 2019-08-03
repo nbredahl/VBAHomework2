@@ -15,7 +15,7 @@ Sub stockdata_easy()
     
     ' Loop through all rows in sheet
     
-    For i = 2 To 70926
+    For i = 2 To 760192
     
     
     ' Add up total volume for ticker and print when loop reaches next ticker
@@ -73,7 +73,7 @@ Sub stockdata_moderate()
     
     ' Loop through all rows in sheet
     
-    For i = 2 To 70926
+    For i = 2 To 760192
     
     
     ' Calculate difference and percent difference between closing and opening and print when loop reaches next ticker
